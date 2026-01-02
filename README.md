@@ -93,7 +93,7 @@ A comprehensive web-based Debt Collection Agency (DCA) Management Platform desig
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/kani-jayachandran/ChennaiSharks_FedEx.git
 cd dca-management-platform
 ```
 
@@ -108,7 +108,7 @@ cd ../frontend
 npm install
 
 # AI Services
-cd ../ai-services
+cd ../fedex
 pip install -r requirements.txt
 ```
 
@@ -288,5 +288,6 @@ For technical support or questions:
 - Review the documentation wiki
 
 ---
+
 
 **Built for Enterprise Scale | Powered by AI | Secured by Design**
