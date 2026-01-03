@@ -1,4 +1,4 @@
-**Built for Enterprise Scale | Powered by AI | Secured by Design**
+**Built for Enterprise Scale | Secured by Design**
 =======
 # Enterprise DCA Management Platform
 
