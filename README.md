@@ -119,7 +119,7 @@ pip install -r requirements.txt
 # Copy environment files
 cp backend/.env.example backend/.env
 cp frontend/.env.example frontend/.env
-cp ai-services/.env.example ai-services/.env
+cp fedex/.env.example fedex/.env
 ```
 
 4. **Start Services**
@@ -128,7 +128,7 @@ cp ai-services/.env.example ai-services/.env
 mongod
 
 # Start AI Services
-cd ai-services
+cd fedex
 python main.py
 
 # Start Backend
